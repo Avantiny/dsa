@@ -1,9 +1,9 @@
 package cv03pr01;
 
 public class Ctverec extends Tvar {
-	private int delka;
+	private float delka;
 
-	public Ctverec(int x, int y, int a) {
+	public Ctverec(int x, int y, float a) {
 		super(x, y);
 		this.delka = a;
 	}

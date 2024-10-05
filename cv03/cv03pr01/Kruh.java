@@ -3,7 +3,7 @@ package cv03pr01;
 public class Kruh extends Tvar {
 	private float polomer;
 
-	public Kruh(int x, int y, int r) {
+	public Kruh(int x, int y, float r) {
 		super(x, y);
 		this.polomer = r;
 	}

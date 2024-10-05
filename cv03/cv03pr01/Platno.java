@@ -4,15 +4,15 @@ import java.util.ArrayList;
 
 public class Platno {
 	@SuppressWarnings("unused")
-	private int x;
+	private int delka;
 	@SuppressWarnings("unused")
-	private int y;
+	private int vyska;
 
 	private ArrayList<Tvar> tvary = new ArrayList<Tvar>();
 
-	public Platno(int x, int y) {
-		this.x = x;
-		this.y = y;
+	public Platno(int delka, int vyska) {
+		this.delka = delka;
+		this.vyska = vyska;
 	}
 
 	public void pridej(Tvar t) {
