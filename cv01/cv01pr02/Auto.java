@@ -1,4 +1,4 @@
-package cv02;
+package cv01pr02;
 
 public class Auto {
 	public String nazev;

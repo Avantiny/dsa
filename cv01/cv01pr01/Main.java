@@ -1,4 +1,4 @@
-package cv01;
+package cv01pr01;
 
 import java.util.Scanner;
 import java.util.Arrays;

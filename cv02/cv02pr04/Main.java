@@ -1,4 +1,4 @@
-package cv04;
+package cv02pr04;
 
 public class Main {
 	public static void main(String[] args) {

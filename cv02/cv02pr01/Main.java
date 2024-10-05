@@ -1,6 +1,6 @@
-package cv01;
+package cv02pr01;
 
-public class Main2 {
+public class Main {
 	public static void main(String[] args) {
 		Mapa mapa = new Mapa();
 		Auto a1 = new Auto();

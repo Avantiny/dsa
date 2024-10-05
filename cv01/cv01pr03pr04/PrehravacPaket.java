@@ -1,4 +1,4 @@
-package cv03cv04;
+package cv01pr03pr04;
 
 public class PrehravacPaket {
 	public static void main(String[] args) {

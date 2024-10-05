@@ -1,4 +1,4 @@
-package cv05;
+package cv02pr05;
 
 import java.util.Arrays;
 

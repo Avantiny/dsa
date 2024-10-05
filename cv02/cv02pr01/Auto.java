@@ -1,4 +1,4 @@
-package cv01;
+package cv02pr01;
 
 public class Auto {
 	private int x;

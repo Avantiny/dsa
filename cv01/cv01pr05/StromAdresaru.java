@@ -1,4 +1,4 @@
-package cv05;
+package cv01pr05;
 
 public class StromAdresaru {
 	public static void main(String[] args) {

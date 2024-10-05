@@ -1,4 +1,4 @@
-package cv02;
+package cv01pr02;
 
 import java.util.List;
 
